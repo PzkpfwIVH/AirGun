@@ -1,5 +1,7 @@
 # 🔫 AirGun: ESP32-based Bluetooth Light Gun
 
+[![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 [English](README_EG.md) | [中文](README.md)
 
 From gyroscope to mouse movement — high-precision, low-latency wireless motion‑sensing aiming solution
