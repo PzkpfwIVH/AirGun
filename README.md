@@ -1,5 +1,7 @@
 # 🔫 AirGun: 基于ESP32的蓝牙体感枪
 
+[English](README_EG.md) | [中文](README.md)
+
 从陀螺仪到鼠标移动——高精度、低延迟的无线体感瞄准方案
 
 ## 📋 目录
